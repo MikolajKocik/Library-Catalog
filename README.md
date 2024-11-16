@@ -63,7 +63,7 @@ LibraryCatalog is a user-friendly command-line application written in C# that he
 
 *Clone this repository:*
 
-    git clone https://github.com/your-username/LibraryCatalog.git
+    git clone https://github.com/MikolajKocik/LibraryCatalog.git
     cd LibraryCatalog
 
 **Compile the program:**
